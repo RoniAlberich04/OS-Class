@@ -62,7 +62,3 @@ The script will:
 - ask for confirmation before deleting users
 - create a compressed archive in `archives/2023_fall.tar`
 - remove users only if the archive was created successfully
-
-## Important Note
-
-These scripts should be run on a Linux server, not on Windows. For this assignment, the files were only created and edited.
